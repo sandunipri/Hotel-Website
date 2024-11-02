@@ -1,0 +1,27 @@
+
+.service {
+	transition: all 0.3s;
+}
+.service:hover {
+	background: #dfa974;
+}
+.service:hover i {
+	color: #ffffff;
+}
+.service:hover h4 {
+	color: #ffffff;
+}
+.service:hover p {
+	color: #ffffff;
+}
+
+.service i {
+	color: #dfa974;
+	transition: all 0.3s;
+}
+.service h4 {
+	transition: all 0.3s;
+}
+.service p {   
+	transition: all 0.3s;
+}
